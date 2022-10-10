@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Anas Raza
-- 👀 I’m interested in Multimodal Representation Learning, Computer Vision and Model Robustness..
+- 👀 I’m interested in Multimodal Representation Learning, Computer Vision and Robustness..
 
 <!---
 anas-r-dev/anas-r-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
