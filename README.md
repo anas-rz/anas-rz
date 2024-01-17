@@ -1,4 +1,3 @@
-[![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=anas-rz)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=anas-rz)
 - 👋 Hi, I’m Muhammad Anas Raza
