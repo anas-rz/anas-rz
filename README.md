@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=anas-rz)
 - 👋 Hi, I’m Muhammad Anas Raza
-- 👀 I’m interested in Computer Vision, Multimodal Representation Learning and Robustness in ML.
+- 👀 I have a proven track record of developing practical Python applications based on innovative research. I'm an enthusiastic open-source contributor, having worked on projects like Keras. 
 
 <div align="center">
    <a href="https://github.com/anas-rz">
